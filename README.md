@@ -7,7 +7,7 @@ how
 ===========
 
 * 手机已经root
-* 安装SupeUser
+* 安装SuperUser
 * 安装busybox
 * 安装OI文件管理器
 * 安装ssh/sftp server 设置ssh认证需要的公钥(免密码登陆)
